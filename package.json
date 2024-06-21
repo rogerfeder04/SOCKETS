@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Oscar H",
+  "author": "Elver J Garcia",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
